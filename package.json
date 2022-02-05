@@ -1,0 +1,10 @@
+{
+  "name": "jsdiff-crlf",
+  "private": true,
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "diff": "^5.0.0"
+  }
+}
